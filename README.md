@@ -11,7 +11,9 @@ https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/FiraCode
 https://github.com/ryanoasis/nerd-fonts/raw/master/patched-fonts/FiraCode/Medium/complete/Fira%20Code%20Medium%20Nerd%20Font%20Complete.ttf
 ```
 ## Установка шрифта
-[url=https://github.com/tonsky/FiraCode/wiki/Linux-instructions]https://github.com/tonsky/FiraCode/wiki/Linux-instructions[/url]
+```console
+https://github.com/tonsky/FiraCode/wiki/Linux-instructions
+```
 
 ## Установите пакет ZSH
 
